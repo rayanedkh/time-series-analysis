@@ -1,1 +1,2 @@
-# time-series-tsia202
+# Time-Series
+## TSIA202 @ Télécom Paris
